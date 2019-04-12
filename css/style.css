@@ -51,16 +51,18 @@ p {
   color: rgb(0, 129, 192);
 }
 
+#about img {
+  max-width: 100%;
+  border: 5px solid rgb(158, 176, 170);
+}
+
 #press img {
   border: 5px solid rgb(204, 204, 204);
 }
 
 
 /*//////MEDIA//////*/
-img {
-  max-width: 100%;
-  border: 5px solid rgb(158, 176, 170);
-}
+
 
 
 footer {
