@@ -61,7 +61,7 @@ p {
 }
 
 #press a {
-  color: rgb(152, 173, 166);
+  border-color: rgb(152, 173, 166);
 }
 
 footer {
