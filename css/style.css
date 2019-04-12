@@ -52,7 +52,7 @@ img {
 
 
 footer {
-  text-align: right;
+  float: right;
 }
 
 div #copyright img {
