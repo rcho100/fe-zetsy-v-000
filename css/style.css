@@ -56,11 +56,11 @@ p {
   border: 5px solid rgb(152, 173, 166);
 }
 
-#press a img {
+#press img {
   border: 5px solid rgb(204, 204, 204);
 }
 
-#press a:hover {
+#press a:hover img {
   border-color: rgb(152, 173, 166);
 }
 
