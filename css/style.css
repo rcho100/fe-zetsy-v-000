@@ -26,6 +26,10 @@ h1 {
   font-size: 5em;
   font-family: 'Baskerville', serif;
   border-bottom: 1px solid rgb(147, 174, 166);
+
+}
+
+#head {
   color: rgb(147, 174, 166);
 }
 
